@@ -1,0 +1,12 @@
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+D:\Kode\dotnet-aspnet-questionnaire-case\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
